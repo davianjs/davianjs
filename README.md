@@ -18,7 +18,7 @@ Currently, I'm focused on improving my **front-end and back-end** skills while d
 
 ---
 
-## 💻🔧 Programming Languages and Tools
+## 💻🔧 Languages and Tools
 
 <div align="center">
 
