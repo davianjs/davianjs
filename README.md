@@ -21,28 +21,46 @@ Currently, I'm focused on improving my **front-end and back-end** skills while d
 ## 💻🔧 Languages and Tools
 
 <div align="center">
- 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java">
-</p>
 
-<p align="center">
-  <b>HTML5</b> &nbsp;&nbsp;&nbsp; <b>CSS3</b> &nbsp;&nbsp;&nbsp; <b>JavaScript</b> &nbsp;&nbsp;&nbsp; <b>Bootstrap</b> &nbsp;&nbsp;&nbsp; <b>MySQL</b> &nbsp;&nbsp;&nbsp; <b>Java</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>HTML5</b></td>
+    <td align="center"><b>CSS3</b></td>
+    <td align="center"><b>JavaScript</b></td>
+    <td align="center"><b>Bootstrap</b></td>
+    <td align="center"><b>MySQL</b></td>
+    <td align="center"><b>Java</b></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-### 🔥My Stats 
+### 📊 GitHub Stats 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviKiwii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviKiwii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />   <br/>
-  <img src="https://streak-stats.demolab.com?user=DaviKiwii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>  
+  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DaviKiwii&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviKiwii&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=DaviKiwii&theme=tokyonight"/>
+</p>
+
+
+ 
+</div> 
