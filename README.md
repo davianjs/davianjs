@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 I'm **Davi dos Anjos**, an undergraduate student in **Information Systems** with a year of experience studying **computing**.  
-I'm passionate about **technology, problem-solving, and innovation**, and I have a strong interest in both **full-stack development** and the **data technologies**.  
+I'm passionate about **technology, problem-solving, and innovation**, and I have a strong interest in both **full-stack development**, the **data technologies** and **networks**.  
 Currently, I'm focused on improving my **front-end and back-end** skills while deepening my knowledge in **databases**.  
 
 ## 🌎 Languages
@@ -28,6 +28,10 @@ Currently, I'm focused on improving my **front-end and back-end** skills while d
 
 ---
 
-## 📊 GitHub Stats  
-![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)  
+### 🔥My Stats 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviKiwii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviKiwii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />   <br/>
+  <img src="https://streak-stats.demolab.com?user=DaviKiwii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>  
