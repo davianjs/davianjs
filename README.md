@@ -21,14 +21,14 @@ Currently, I'm focused on improving my **front-end and back-end** skills while d
 ## 💻🔧 Languages and Tools
 
 <div align="center">
-
+ 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CSS3_logo.svg" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Bootstrap_logo.svg" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.svg" width="50">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java">
 </p>
 
 <p align="center">
