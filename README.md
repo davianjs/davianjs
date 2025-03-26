@@ -22,9 +22,18 @@ Currently, I'm focused on improving my **front-end and back-end** skills while d
 
 <div align="center">
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=coffeescript&logoColor=white)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/HTML5_logo_and_wordmark.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CSS3_logo.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Bootstrap_logo.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/MySQL_logo.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="50">
+</p>
 
-
+<p align="center">
+  <b>HTML5</b> &nbsp;&nbsp;&nbsp; <b>CSS3</b> &nbsp;&nbsp;&nbsp; <b>JavaScript</b> &nbsp;&nbsp;&nbsp; <b>Bootstrap</b> &nbsp;&nbsp;&nbsp; <b>MySQL</b> &nbsp;&nbsp;&nbsp; <b>Java</b>
+</p>
 
 </div>
 
