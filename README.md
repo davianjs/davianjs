@@ -6,8 +6,8 @@ I'm passionate about **technology, problem-solving, and innovation**, and I have
 Currently, I'm focused on improving my **coding** skills and expanding my knowledge in **computational foundations**.
 
 ## 🌎 Languages
-- 🇧🇷 **Portuguese** (Native)  
-- 🇬🇧 **English** (Basic)
+ <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/br.svg" width="20" height="15" /> <strong>Portuguese</strong> (Native)  
+ <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gb.svg" width="20" height="15" /> <strong>English</strong> (Basic)
 
 ## 📢 Connect with Me
 <div align="center">
