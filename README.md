@@ -42,6 +42,8 @@ Currently, I'm focused on improving my **coding** skills and expanding my knowle
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /><br>Java</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /><br>Python</td>
+   <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" /><br>Node.js</td>
+   
   </tr>
 </table>
 
